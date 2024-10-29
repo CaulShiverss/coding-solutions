@@ -1,4 +1,4 @@
-# coding-solution
+# coding-solutions
 
 Repositorio con soluciones a problemas de programación.
 
@@ -18,4 +18,9 @@ Repositorio con soluciones a problemas de programación.
 [AR-608](https://github.com/CaulShiverss/coding-solutions/blob/master/src/E2_PeligroPorHielo.java)
 
 ---
+### 621 - La Otra Página
+#### Enunciado
+![image](https://github.com/user-attachments/assets/4ee0fc31-3acb-4690-9cd4-1b46187d4446)
+#### Solucion
+[AR-621](https://github.com/CaulShiverss/coding-solutions/blob/master/src/E3_LaOtraPagina.java)
 
