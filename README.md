@@ -2,13 +2,14 @@
 
 Repositorio con soluciones a problemas de programación.
 
-## aceptaelreto.com
-- Link [Acepta El Reto](https://aceptaelreto.com)
+## Acepta El Reto
+- Link [aceptaelreto.com](https://aceptaelreto.com)
 ### 605 - Ordenando El Armario
 #### Enunciado
 ![image](https://github.com/user-attachments/assets/f54660d2-205e-4298-ab39-45f9e1f9bf98)
 #### Solucion
 [AR-605](https://github.com/CaulShiverss/coding-solutions/blob/master/src/E1_OrdenandoElArmario.java)
+
 ---
 ### 608 - Peligro Por Hielo
 #### Enunciado
