@@ -3,7 +3,7 @@
 Repositorio con soluciones a problemas de programación.
 
 ## Acepta El Reto
-- Link [aceptaelreto.com](https://aceptaelreto.com)
+- [aceptaelreto.com](https://aceptaelreto.com)
 ### 605 - Ordenando El Armario
 #### Enunciado
 ![image](https://github.com/user-attachments/assets/f54660d2-205e-4298-ab39-45f9e1f9bf98)
@@ -23,4 +23,13 @@ Repositorio con soluciones a problemas de programación.
 ![image](https://github.com/user-attachments/assets/4ee0fc31-3acb-4690-9cd4-1b46187d4446)
 #### Solucion
 [AR-621](https://github.com/CaulShiverss/coding-solutions/blob/master/src/E3_LaOtraPagina.java)
+
+---
+### 403 - En Campos de Futbol
+#### Enunciado
+![image](https://github.com/user-attachments/assets/6335a0b5-4d03-4ac0-91dc-68eaec7cf795)
+#### Solucion
+[AR-403](https://github.com/CaulShiverss/coding-solutions/blob/master/src/E4_EnCamposDeFutbol.java)
+
+----
 
