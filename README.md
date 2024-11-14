@@ -39,4 +39,11 @@ Repositorio con soluciones a problemas de programación.
 #### Solucion
 [AR-481](https://github.com/CaulShiverss/coding-solutions/blob/master/src/E6_AjedrezAsistidoPorComputador.java)
 
+----
+
+### 131 - LLenando Piscinas (Solucion no aceptada por la página)
+#### Enunciado
+![image](https://github.com/user-attachments/assets/b6ce7e5a-df8b-48e3-84f2-b27cddf0000c)
+#### Solucion
+[AR-131](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AC_131.java)
 
