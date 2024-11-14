@@ -33,3 +33,10 @@ Repositorio con soluciones a problemas de programación.
 
 ----
 
+### 481 - Ajedrez Asistido por Computador
+#### Enunciado
+![image](https://github.com/user-attachments/assets/e0cb4560-05b5-442b-b243-71456968ce63)
+#### Solucion
+[AR-481](https://github.com/CaulShiverss/coding-solutions/blob/master/src/E6_AjedrezAsistidoPorComputador.java)
+
+
