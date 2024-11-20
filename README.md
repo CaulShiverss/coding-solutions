@@ -47,3 +47,13 @@ Repositorio con soluciones a problemas de programación.
 #### Solucion
 [AR-131](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AC_131.java)
 
+----
+
+### 105 - Ventas
+### Enunciado
+![image](https://github.com/user-attachments/assets/b375de87-2b50-4e2a-af6e-341a4fde58e4)
+#### Solucion
+[AR-105](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AR_105.java)
+
+----
+
