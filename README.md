@@ -65,4 +65,12 @@ Repositorio con soluciones a problemas de programación.
 
 ----
 
+### 380 - ¡Me caso!
+#### Enunciado
+![image](https://github.com/user-attachments/assets/c3b4cafa-0f13-4014-b095-ab17977a3ae7)
+#### Solucion
+[AR-380](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AR_380.java)
+
+----
+
 
