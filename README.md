@@ -50,10 +50,19 @@ Repositorio con soluciones a problemas de programación.
 ----
 
 ### 105 - Ventas
-### Enunciado
+#### Enunciado
 ![image](https://github.com/user-attachments/assets/b375de87-2b50-4e2a-af6e-341a4fde58e4)
 #### Solucion
 [AR-105](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AR_105.java)
 
 ----
+
+### 313 - Fin de mes
+#### Enunciado
+![image](https://github.com/user-attachments/assets/fce4317d-04cd-4c59-a374-713971f2689f)
+#### Solucion
+[AR-313](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AR_313.java)
+
+----
+
 
