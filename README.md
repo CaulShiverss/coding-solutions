@@ -4,6 +4,21 @@ Repositorio con soluciones a problemas de programación.
 
 ## Acepta El Reto
 - [aceptaelreto.com](https://aceptaelreto.com)
+
+| Enlace al encabezado                |
+|-------------------------------------|
+| [605 - Ordenando El Armario](#605---ordenando-el-armario) |
+| [608 - Peligro Por Hielo](#608---peligro-por-hielo)       |
+| [621 - La Otra Página](#621---la-otra-página)             |
+| [403 - En Campos de Futbol](#403---en-campos-de-futbol)   |
+| [481 - Ajedrez Asistido por Computador](#481---ajedrez-asistido-por-computador) |
+| [131 - LLenando Piscinas](#131---llenando-piscinas-solucion-no-aceptada-por-la-página) |
+| [105 - Ventas](#105---ventas)                            |
+| [313 - Fin de mes](#313---fin-de-mes)                    |
+| [380 - ¡Me caso!](#380---me-caso)                       |
+
+
+
 ### 605 - Ordenando El Armario
 #### Enunciado
 ![image](https://github.com/user-attachments/assets/f54660d2-205e-4298-ab39-45f9e1f9bf98)
@@ -62,6 +77,14 @@ Repositorio con soluciones a problemas de programación.
 ![image](https://github.com/user-attachments/assets/fce4317d-04cd-4c59-a374-713971f2689f)
 #### Solucion
 [AR-313](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AR_313.java)
+
+----
+
+### 380 - Me caso
+#### Enunciado
+![image](https://github.com/user-attachments/assets/c3b4cafa-0f13-4014-b095-ab17977a3ae7)
+#### Solucion
+[AR-380](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AR_380.java)
 
 ----
 
