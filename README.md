@@ -16,6 +16,7 @@ Repositorio con soluciones a problemas de programación.
 | [105 - Ventas](#105---ventas)                            |
 | [313 - Fin de mes](#313---fin-de-mes)                    |
 | [380 - ¡Me caso!](#380---me-caso)                       |
+| [532 - Reduciendo envases](#532---reduciendo-envases) |
 
 
 
@@ -88,4 +89,11 @@ Repositorio con soluciones a problemas de programación.
 
 ----
 
+### 532 - Reduciendo envases
+#### Enunciado
+![image](https://github.com/user-attachments/assets/cc697c62-be8b-4c05-a3e4-f058dbba5b26)
+#### Solucion
+[AR-532](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AR_532.java)
+
+----
 
