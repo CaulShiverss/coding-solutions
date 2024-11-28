@@ -17,6 +17,7 @@ Repositorio con soluciones a problemas de programación.
 | [313 - Fin de mes](#313---fin-de-mes)                    |
 | [380 - ¡Me caso!](#380---me-caso)                       |
 | [532 - Reduciendo envases](#532---reduciendo-envases) |
+| [664 - Gálibo](#664---gálibo)
 
 
 
@@ -96,4 +97,13 @@ Repositorio con soluciones a problemas de programación.
 [AR-532](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AR_532.java)
 
 ----
+
+### 664 - Gálibo
+#### Enunciado
+![image](https://github.com/user-attachments/assets/35a88a78-0fc9-48dc-ac1a-9fda7b84438e)
+#### Solucion
+[AR-664](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AR_664.java)
+
+----
+
 
