@@ -19,6 +19,7 @@ Repositorio con soluciones a problemas de programación.
 | [532 - Reduciendo envases](#532---reduciendo-envases) |
 | [664 - Gálibo](#664---gálibo) |
 | [123 - Conjugar Verbos](#123---conjugar-verbos) |
+| [141 - Parentesis Balanceados](#141---parentesis-balanceados) |
 
 
 
@@ -112,4 +113,12 @@ Repositorio con soluciones a problemas de programación.
 ![image](https://github.com/user-attachments/assets/45f9dde8-5c69-4e2f-9849-dd0131ebfe16)
 #### Solucion
 [AR-123](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AR_123.java)
+
+----
+
+### 141 - Parentesis balanceados
+#### Enunciado
+![image](https://github.com/user-attachments/assets/96657b5a-5abe-4399-b184-6b4117393e26)
+#### Solucion
+[AR-141](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AR_141.java)
 
