@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Stack;
 
 /**
- * Problema 141 - Ventas
+ * Problema 141 - Parentesis Balamceados
  * @platform aceptaelreto.com
  * @link https://aceptaelreto.com/problem/statement.php?id=141
  * @author Sergio Llorente
