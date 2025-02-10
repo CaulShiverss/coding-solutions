@@ -17,7 +17,8 @@ Repositorio con soluciones a problemas de programación.
 | [313 - Fin de mes](#313---fin-de-mes)                    |
 | [380 - ¡Me caso!](#380---me-caso)                       |
 | [532 - Reduciendo envases](#532---reduciendo-envases) |
-| [664 - Gálibo](#664---gálibo)
+| [664 - Gálibo](#664---gálibo) |
+| [123 - Conjugar Verbos](#123---conjugar-verbos) |
 
 
 
@@ -106,4 +107,9 @@ Repositorio con soluciones a problemas de programación.
 
 ----
 
+### 123 - Conjugar Verbos
+#### Enunciado
+![image](https://github.com/user-attachments/assets/45f9dde8-5c69-4e2f-9849-dd0131ebfe16)
+#### Solucion
+[AR-123](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AR_123.java)
 
