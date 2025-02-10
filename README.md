@@ -120,5 +120,5 @@ Repositorio con soluciones a problemas de programación.
 #### Enunciado
 ![image](https://github.com/user-attachments/assets/96657b5a-5abe-4399-b184-6b4117393e26)
 #### Solucion
-[AR-141](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AR_141.java)
+[AR-141](https://github.com/CaulShiverss/coding-solutions/blob/master/src/AC_141.java)
 
